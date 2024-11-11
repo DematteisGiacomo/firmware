@@ -7,6 +7,8 @@
 
 #### Nightly:
 [![Target_tests](https://github.com/hello-nrfcloud/firmware/actions/workflows/test.yml/badge.svg?event=schedule)](https://github.com/hello-nrfcloud/firmware/actions/workflows/test.yml?query=branch%3Amain+event%3Aschedule)
+[![Power Consumption Badge](https://img.shields.io/endpoint?url=https://hello-nrfcloud.github.io/firmware/power_badge.json)](https://hello-nrfcloud.github.io/firmware/test_html.html)
+
 
 This project is based on the
 [NCS Example Application](https://github.com/nrfconnect/ncs-example-application).
